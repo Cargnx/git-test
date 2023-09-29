@@ -1,2 +1,2 @@
 Hello World!
-This is my first file into github with git! :)
+This is my first file into github with git! 
